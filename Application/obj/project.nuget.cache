@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKhd0fpM9M5nlys6CPAXqW7FDrYNMX5KTvh8+KA7YFGEPn5N1cT+166vapNBNvzEcJkHIWbA9X9wHQmL6pgQIQ==",
+  "dgSpecHash": "G+E2OqFWskI4k58GnCksBQmNIHKNecY+jXpW+crwzz60MX5X0sz3D8hSLydvIbIOCq0lysYvkUHyO446DGizhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rojce\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.3\\microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "C:\\Users\\rojce\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

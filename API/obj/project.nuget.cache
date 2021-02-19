@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WnXfkBgGnIjTZcYJmGv2airaNg0VdZNxxf5JF61Ok03Z0a2E4c3r3Svbs7Jkg4scQXQfcpOgKIW2CEAH2Ib+Q==",
+  "dgSpecHash": "zHMdubfdI95dwD9Dz+Pq2bhOS2dT0130UGu5UYP/K8vPb4wMBEjoMxwJ33a/uUflFQjSkNqX3f0JHstFpAaQEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rojce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rojce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
