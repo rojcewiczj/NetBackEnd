@@ -71,3 +71,5 @@ C:\Users\rojce\Documents\GitHub\NetBackEnd\API\obj\Debug\net5.0\API.pdb
 C:\Users\rojce\Documents\GitHub\NetBackEnd\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\rojce\Documents\GitHub\NetBackEnd\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\rojce\Documents\GitHub\NetBackEnd\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rojce\documents\GitHub\NetBackEnd\API\bin\Debug\net5.0\MediatR.dll
+C:\Users\rojce\documents\GitHub\NetBackEnd\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
