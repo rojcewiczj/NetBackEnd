@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\API.csproj": {}
+    "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\API.csproj": {
+    "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\API.csproj",
+        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\API.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\API\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj"
+              "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj": {
+    "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Application\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,11 +101,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj"
+              "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj"
+              "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -120,6 +120,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -144,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
+    "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\rojce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rojce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +226,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rojce\\documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj"
+              "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rojce\\Documents\\GitHub\\NetBackEnd\\Domain\\Domain.csproj"
               }
             }
           }
